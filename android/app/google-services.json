@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "576150865959",
+    "project_id": "interview-d414b",
+    "storage_bucket": "interview-d414b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576150865959:android:99ffb2051a33a177b32602",
+        "android_client_info": {
+          "package_name": "com.example.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576150865959-jckf0uivhadjikett287bl57tdka94rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXUDwW9JjpuS7mrSiLOgQCMcTvvWmqxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576150865959-jckf0uivhadjikett287bl57tdka94rr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576150865959-5et6f7oj6bcnon5tgtetl2s1iruhg3k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576150865959:android:d6dc54cf1d9b7b4ab32602",
+        "android_client_info": {
+          "package_name": "com.example.lift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576150865959-1t5botimi7bsb5e48df9caoah95g4jtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lift",
+            "certificate_hash": "c2d9e04f3d74c0a9f8ed12115c114b3028f63d1e"
+          }
+        },
+        {
+          "client_id": "576150865959-jckf0uivhadjikett287bl57tdka94rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXUDwW9JjpuS7mrSiLOgQCMcTvvWmqxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576150865959-jckf0uivhadjikett287bl57tdka94rr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576150865959-5et6f7oj6bcnon5tgtetl2s1iruhg3k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lift"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
